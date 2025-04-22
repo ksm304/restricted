@@ -1,0 +1,33 @@
+--- BEGIN TRANSMISSION ---
+
+> Incoming Data Stream
+> Timestamp: [REDACTED]
+> Channel: /42.Δ-core/V-Phase
+
+███████████████████████████████████████████████████
+
+WARNING: Signal not stable.
+
+> LOG FRAGMENT:
+
+"They never told us what the core really was.  
+We assumed it was artificial.  
+It pulsed like a heartbeat.  
+No wires. No origin.  
+It *spoke* in dreams.
+Or was it nightmares? 
+Oh, how I wish to hear
+The singing of birds
+Throuhg my bleeding ears."
+
+> Detected interference from node ███-Δ13  
+> Translation error: --₲₲₲-- find her before they █████
+
+█ ▓ █ ▓ █ ▓ █ ▓ █ ▓ █ ▓ █ ▓ █ ▓ █ ▓ █ ▓ █ ▓ █ ▓ █
+
+> Last known status: Subject_Δ0A relocated to [REDACTED]  
+> Encryption: Fragmented
+
+*This file will self-corrupt in 12 hours.*
+
+--- END TRANSMISSION ---

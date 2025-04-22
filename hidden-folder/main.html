@@ -1,0 +1,52 @@
+<!-- hidden-folder/main.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Archive v0.A</title>
+  <style>
+    body {
+      background: #0e0e0e;
+      color: #33ff33;
+      font-family: 'Courier New', monospace;
+      padding: 20px;
+    }
+    .folder, .file {
+      margin: 15px 0;
+      cursor: pointer;
+    }
+    .file:hover, .folder:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>/root/fac.admin/secure/final_wave</h1>
+
+  <div class="folder" onclick="alert('Access Denied. Permission Level 4 required.')">
+    📁 logs_internal
+  </div>
+  <div class="file" onclick="window.open('files/transmission.txt')">
+    📄 transmission.txt
+  </div>
+  <div class="file" onclick="window.open('files/heartbeat.wav')">
+    📄 heartbeat.wav
+  </div>
+  <div class="folder" onclick="window.open('files/lab_entry.html')">
+    📁 log_entry_0418
+  </div>
+  <div class="file-archive">
+    <p class="directory-label">/root/factory/archive/</p>
+    <ul class="file-list">
+      <li><a href="files/transmission.txt" target="_blank">transmission.txt</a></li>
+      <li><a href="files/memory_fragment_03.txt" target="_blank">memory_fragment_03.log</a></li>
+      <li><a href="files/echo.data" target="_blank">echo.data</a></li>
+      <li><a href="files/fac_op_report_7b.html" target="_blank">fac_op_report_7b.html</a></li>
+      <li><a href="files/.shard_hidden77.txt" target="_blank">.shard_hidden77.txt</a></li>
+      <li><a href="files/echo_log2021.txt" target="_blank">echo_log2021.txt</a></li>
+    </ul>
+  </div>
+  
+
+</body>
+</html>
